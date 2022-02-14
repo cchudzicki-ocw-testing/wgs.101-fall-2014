@@ -4,7 +4,12 @@ description: 'This resource contains information related to interpreting classic
   women''s rights documents: seneca falls convention and "the declaration of sentiments"(1848).'
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2014/c4e644739632caa249707874a6f0d55a_MITWGS_101F14_Hwork4.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: 'WGS.101 Introduction to Women''s and Gender Studies: Homework 4 Truth'
+type: OCWFile
 uid: c4e64473-9632-caa2-4970-7874a6f0d55a
 ---

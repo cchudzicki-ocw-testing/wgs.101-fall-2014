@@ -5,7 +5,12 @@ description: "This resource contains information related to strategies for gende
   \ and suffrage.\r\n"
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2014/8a80b9ab5858bdb2478fd559a41d75a9_MITWGS_101F14_Sess5.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Outlines
+parent_type: CourseSection
 resourcetype: Document
 title: 'WGS.101 Introduction to Women''s and Gender Studies: Session 5 Lecture Outline'
+type: OCWFile
 uid: 8a80b9ab-5858-bdb2-478f-d559a41d75a9
 ---

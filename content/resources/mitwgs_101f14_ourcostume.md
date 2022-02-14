@@ -4,7 +4,12 @@ description: This resource contains information related to women's and gender st
   costume.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2014/ecea31b11b19afa9441d92aaecbf220c_MITWGS_101F14_OurCostume.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: 'WGS.101 Introduction to Women''s and Gender Studies: Our Costume'
+type: OCWFile
 uid: ecea31b1-1b19-afa9-441d-92aaecbf220c
 ---

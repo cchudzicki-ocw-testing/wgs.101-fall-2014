@@ -1,6 +1,8 @@
 ---
 content_type: page
+learning_resource_types: []
 title: In-Class Writings
+type: CourseSection
 uid: 1677945a-0bc0-7f43-1aac-25e19722c7d0
 ---
 
