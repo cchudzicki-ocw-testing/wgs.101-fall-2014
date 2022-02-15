@@ -18,6 +18,7 @@ image_metadata:
   image-alt: A colorful mural on the side of a building portrays 90 female activists
     throughout history.
 learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: wgs-101f14-th.jpg
 uid: f34e20e5-90e2-dd47-ec4c-2e189260d599

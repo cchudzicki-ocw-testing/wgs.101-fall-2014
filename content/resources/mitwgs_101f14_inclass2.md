@@ -5,6 +5,7 @@ description: This resource contains information related to the emergence of move
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2014/688634139fb04886b279d68d8d44379e_MITWGS_101F14_InClass2.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: In-Class Writings
 parent_type: CourseSection
 resourcetype: Document
