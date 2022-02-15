@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 'WGS.101 Introduction to Women''s and Gender Studies: Oral Presentation'
-type: OCWFile
 uid: 882383ce-d86a-d15a-d814-be94f22bd677
 ---

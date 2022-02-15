@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 'WGS.101 Introduction to Women''s and Gender Studies: Homework 9 Sisters'
-type: OCWFile
 uid: 7765c79f-4f9c-92ff-5c16-e01785ba0b08
 ---

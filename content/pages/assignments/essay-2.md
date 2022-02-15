@@ -6,7 +6,6 @@ parent_title: Assignments
 parent_type: CourseSection
 parent_uid: b7af93a7-cfda-9224-0541-d3559584db59
 title: Essay 2
-type: CourseSection
 uid: 066190a4-a557-fdb3-ef42-ed1b1a708de3
 ---
 

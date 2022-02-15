@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 'WGS.101 Introduction to Women''s and Gender Studies: Homework 2 Declaration'
-type: OCWFile
 uid: d39b67f6-f157-b5b1-71ec-17876eef97fd
 ---

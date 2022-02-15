@@ -10,6 +10,5 @@ parent_title: Lecture Outlines
 parent_type: CourseSection
 resourcetype: Document
 title: 'WGS.101 Introduction to Women''s and Gender Studies: Session 15 Lecture Outline'
-type: OCWFile
 uid: 9df8d3f0-53bd-5c5b-f98e-6bc8421e7b87
 ---

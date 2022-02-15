@@ -20,6 +20,5 @@ image_metadata:
 learning_resource_types: []
 resourcetype: Image
 title: wgs-101f14-th.jpg
-type: OCWImage
 uid: f34e20e5-90e2-dd47-ec4c-2e189260d599
 ---

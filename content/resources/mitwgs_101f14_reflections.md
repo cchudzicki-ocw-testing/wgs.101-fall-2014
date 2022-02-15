@@ -8,6 +8,5 @@ parent_title: In-Class Writings
 parent_type: CourseSection
 resourcetype: Document
 title: 'WGS.101 Introduction to Women''s and Gender Studies: Reflections'
-type: OCWFile
 uid: 0ce88d12-c4ff-8bcf-977d-d2431a85f75d
 ---

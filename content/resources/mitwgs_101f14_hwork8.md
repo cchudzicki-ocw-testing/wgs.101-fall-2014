@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 'WGS.101 Introduction to Women''s and Gender Studies: Homework 8 Feminism'
-type: OCWFile
 uid: 2cdf06cd-dac1-35d7-1ad9-f17da806d35b
 ---

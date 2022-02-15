@@ -9,6 +9,5 @@ parent_title: In-Class Writings
 parent_type: CourseSection
 resourcetype: Document
 title: 'WGS.101 Introduction to Women''s and Gender Studies: Class 24 Writing'
-type: OCWFile
 uid: 91beb7d7-0417-3d0d-6ea6-5cfe18b1a122
 ---

@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 'WGS.101 Introduction to Women''s and Gender Studies: Homework 11 Gender Analysis'
-type: OCWFile
 uid: 1e9b307f-9b42-7cbd-216f-dd175097871c
 ---

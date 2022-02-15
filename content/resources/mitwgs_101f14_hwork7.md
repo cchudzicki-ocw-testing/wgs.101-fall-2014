@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 'WGS.101 Introduction to Women''s and Gender Studies: Homework 7 Rosie'
-type: OCWFile
 uid: 39401330-da33-baa5-b3d7-60fa049118e5
 ---

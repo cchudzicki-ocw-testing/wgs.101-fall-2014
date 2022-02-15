@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 'WGS.101 Introduction to Women''s and Gender Studies: Homework 14 Clothing'
-type: OCWFile
 uid: 2850164e-ba4f-6dd8-43e8-e52f29f1c951
 ---

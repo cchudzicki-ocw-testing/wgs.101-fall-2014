@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 'WGS.101 Introduction to Women''s and Gender Studies: Essay 3 Strategies'
-type: OCWFile
 uid: 5b25476b-6ee2-2845-b446-3b88d4bfcf5c
 ---

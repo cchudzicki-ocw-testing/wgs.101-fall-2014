@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 'WGS.101 Introduction to Women''s and Gender Studies: Essay 3 Sample Exhibit'
-type: OCWFile
 uid: 5bff4d1e-2bcd-84cc-2dfe-ef2cc79b8f1a
 ---

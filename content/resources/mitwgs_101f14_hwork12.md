@@ -10,6 +10,5 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'WGS.101 Introduction to Women''s and Gender Studies: Homework 12 Ma Vie en
   Rose'
-type: OCWFile
 uid: d072cd5d-3114-d273-c6d9-34af4223eeab
 ---

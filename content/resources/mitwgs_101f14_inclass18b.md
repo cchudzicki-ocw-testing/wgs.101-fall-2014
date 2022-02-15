@@ -8,6 +8,5 @@ parent_title: In-Class Writings
 parent_type: CourseSection
 resourcetype: Document
 title: 'WGS.101 Introduction to Women''s and Gender Studies: Class 18 Writing B'
-type: OCWFile
 uid: a972c501-c3a4-ae9b-5e16-544d42fc0efc
 ---

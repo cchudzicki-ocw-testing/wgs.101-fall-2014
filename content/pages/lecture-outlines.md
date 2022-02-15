@@ -3,7 +3,6 @@ content_type: page
 learning_resource_types:
 - Lecture Notes
 title: Lecture Outlines
-type: CourseSection
 uid: eb142767-373a-72c3-6cfd-a370aabd9623
 ---
 

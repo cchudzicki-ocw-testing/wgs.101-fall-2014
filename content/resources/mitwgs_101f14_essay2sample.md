@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 'WGS.101 Introduction to Women''s and Gender Studies: Essay 2 Sample Outline'
-type: OCWFile
 uid: 432d2af9-368d-a813-abc7-4114f1309390
 ---

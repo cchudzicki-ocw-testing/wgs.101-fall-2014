@@ -10,6 +10,5 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'WGS.101 Introduction to Women''s and Gender Studies: Homework 13 Workplace
   Benefits'
-type: OCWFile
 uid: 9be48894-d0f7-d7f5-f3a5-bec9fb8f5f8d
 ---

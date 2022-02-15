@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 'WGS.101 Introduction to Women''s and Gender Studies: Homework 1 Grimke'
-type: OCWFile
 uid: 66771b86-2bbb-6c50-8e99-71648a790274
 ---

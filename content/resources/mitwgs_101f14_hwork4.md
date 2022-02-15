@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 'WGS.101 Introduction to Women''s and Gender Studies: Homework 4 Truth'
-type: OCWFile
 uid: c4e64473-9632-caa2-4970-7874a6f0d55a
 ---

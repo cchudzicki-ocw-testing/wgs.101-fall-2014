@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 'WGS.101 Introduction to Women''s and Gender Studies: Citation Style for Essays'
-type: OCWFile
 uid: a7a0c255-26d5-b855-b1c7-2f2cb9b7ec07
 ---

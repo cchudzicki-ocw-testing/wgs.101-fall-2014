@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 'WGS.101 Introduction to Women''s and Gender Studies: Homework 10 Lorber'
-type: OCWFile
 uid: 51e6063e-5172-4a65-d6f4-6456674ea158
 ---

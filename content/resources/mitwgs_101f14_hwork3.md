@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 'WGS.101 Introduction to Women''s and Gender Studies: Homework 3 Our Costume'
-type: OCWFile
 uid: 1794e51a-2f4f-159c-7af2-e9da6f481aeb
 ---

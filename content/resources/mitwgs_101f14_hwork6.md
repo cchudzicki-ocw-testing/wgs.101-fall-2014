@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 'WGS.101 Introduction to Women''s and Gender Studies: Homework 6 Yellow'
-type: OCWFile
 uid: 9328e17d-42ba-17ce-0bd9-51f82c7101a9
 ---

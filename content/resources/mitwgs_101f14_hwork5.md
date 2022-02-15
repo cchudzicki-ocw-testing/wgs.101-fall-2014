@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 'WGS.101 Introduction to Women''s and Gender Studies: Homework 5 Wells'
-type: OCWFile
 uid: 2c6ec164-ae9b-b9fc-c180-ec951b668d41
 ---

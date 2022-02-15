@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 'WGS.101 Introduction to Women''s and Gender Studies: Final Reflections'
-type: OCWFile
 uid: e4db6e70-51eb-c830-a0db-19f5792feb61
 ---
