@@ -22,11 +22,11 @@ The primary goal of this course is to familiarize students with key issues, ques
 
 Students often take this course as part of the WGS major, minor, or concentration and continue to complete coursework in WGS.
 
-{{\< anchor "insights" >}}{{\< /anchor >}}
+{{< anchor "insights" >}}{{< /anchor >}}
 
 ## Instructor Insights
 
-{{\< quote "By making the structure of the course fairly transparent, students will be able to understand why they are studying the content." "—Dr. Andrea Walsh" >}}
+{{< quote "By making the structure of the course fairly transparent, students will be able to understand why they are studying the content." "—Dr. Andrea Walsh" >}}
 
 _Below, Dr. Andrea Walsh describes various aspects of how she teaches_ WGS.101 Introduction to Women’s and Gender Studies.
 
@@ -55,7 +55,7 @@ None
 
 Every spring and fall semester
 
-{{\< anchor "assessment" >}}{{\< /anchor >}}
+{{< anchor "assessment" >}}{{< /anchor >}}
 
 ## Assessment
 
@@ -68,7 +68,7 @@ The students' grades were based on the following activities:
 
 ## Student Information
 
-!\[21 students took this course when it was offered in Fall 2014.\]({{\< resource\_file cf912e5b-36a2-747e-e415-40dd823917d2 >}})
+{{< resource cf912e5b-36a2-747e-e415-40dd823917d2 >}}
 
 ### Breakdown by Year
 
@@ -90,7 +90,7 @@ Enrollment is restricted to 25 students because it is the CI-H limit for enrollm
 
 Usually 40 students express interest in enrolling in the course, and are selected based on level of interest and need. Because the course is offered every term, students are offered a spot in the next semester’s class if they are unable to get into the current semester’s offering.
 
-{{\< anchor "studenttime" >}}{{\< /anchor >}}
+{{< anchor "studenttime" >}}{{< /anchor >}}
 
 ## How Student Time Was Spent
 
@@ -109,7 +109,7 @@ During an average week, students were expected to spend 12 hours on the course, 
 - 1 reflection assignment in response to attending a WGS-related event
 - Short homework assignments throughout the course
 
-{{\< anchor "roles" >}}{{\< /anchor >}}
+{{< anchor "roles" >}}{{< /anchor >}}
 
 ## Course Team Roles
 
