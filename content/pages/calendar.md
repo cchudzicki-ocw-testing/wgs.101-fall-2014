@@ -6,7 +6,7 @@ title: Calendar
 uid: 7bacf7f5-ad35-a7ff-c20b-fa5f19cb1875
 ---
 
-For further detail on the various assignments listed in the Key Dates column, please see the {{< resource_link b7af93a7-cfda-9224-0541-d3559584db59 "Assignments" >}} section.
+For further detail on the various assignments listed in the Key Dates column, please see the {{% resource_link b7af93a7-cfda-9224-0541-d3559584db59 "Assignments" %}} section.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -38,7 +38,7 @@ Distribute:
 
 *   Syllabus
 *   Course calendar
-*   {{< resource_link 4bdca4a5-4bc9-ed06-7e0d-68d93552142d "Course Information Sheet (PDF)" >}}
+*   {{% resource_link 4bdca4a5-4bc9-ed06-7e0d-68d93552142d "Course Information Sheet (PDF)" %}}
 *   Homework 1 on Grimke
 
 
@@ -498,7 +498,7 @@ Oral presentations
 
 {{< tdclose >}}
 {{< tdopen >}}
-Distribute: {{< resource_link bcbe0505-4864-6870-0f96-94c7d80f425b "\"Love and Gold\" Discussion Quotes (PDF)" >}}
+Distribute: {{% resource_link bcbe0505-4864-6870-0f96-94c7d80f425b "\"Love and Gold\" Discussion Quotes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

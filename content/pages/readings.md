@@ -75,7 +75,7 @@ Stanton, Elizabeth Cady. "[Declaration of Sentiments](https://www.nps.gov/wori/l
 
 Stone, Lucy, and Henry Blackwell. "[Marriage Agreement](http://womenshistory.about.com/library/etext/bl_marriage_stone_blackwell.htm)." 1855.
 
-Stanton, Elizabeth Cady. {{< resource_link ecea31b1-1b19-afa9-441d-92aaecbf220c "\"Our Costume.\" (PDF)" >}}. _The Lily_ 4 (1851): 31.
+Stanton, Elizabeth Cady. {{% resource_link ecea31b1-1b19-afa9-441d-92aaecbf220c "\"Our Costume.\" (PDF)" %}}. _The Lily_ 4 (1851): 31.
 
 ———. "[The Solitude of Self](https://finallyfeminism101.wordpress.com/2007/06/21/elizabeth-cady-stanton-the-solitude-of-self-1892/)." _Woman's Journal_, January 23, 1892.
 
