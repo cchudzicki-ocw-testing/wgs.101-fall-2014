@@ -1,5 +1,6 @@
 ---
 content_type: page
+draft: false
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
@@ -24,7 +25,7 @@ Students often take this course as part of the WGS major, minor, or concentratio
 
 {{< anchor "insights" >}}{{< /anchor >}}
 
-## Instructor Insights
+## Instructor Interview
 
 {{< quote "By making the structure of the course fairly transparent, students will be able to understand why they are studying the content." "—Dr. Andrea Walsh" >}}
 
@@ -68,7 +69,9 @@ The students' grades were based on the following activities:
 
 ## Student Information
 
-{{< resource cf912e5b-36a2-747e-e415-40dd823917d2 >}}
+### Enrollment
+
+21 students
 
 ### Breakdown by Year
 
@@ -96,13 +99,13 @@ Usually 40 students express interest in enrolling in the course, and are selecte
 
 During an average week, students were expected to spend 12 hours on the course, roughly divided as follows:
 
-## In Class
+### In Class
 
 - Met 2 times per week for 1.5 hours per session; 26 sessions total; mandatory attendance.
 - In an 80-minute class, the first 5 minutes might be spent on introductory announcements of assignments due, followed by 40 minutes of lecture, and 20 minutes of discussion, though this varies from class to class. A typical class may include in-class writing for about 5–10 minutes to stimulate discussion, with subsequent discussion referring to either in-class work or a homework assignment. Discussions may be structured within pairs or small groups, while other times may include the whole class. Sometimes the writing advisor gives presentations of 10-15 minutes that are related to major assignments as well as writing strategies and skills.
 - In the second half of the term, students are asked to give 15-minute oral presentations in pairs. Usually one pair, and occasionally two, presents per class. In these cases, the breakdown of time spent in class might be 30 minutes of lecture, 10 minutes of general discussion, and 15 minutes for the oral presentation that includes 5 minutes of class discussion. Because this class is a CI-H course, students regularly practice both written and oral communication skills.
 
-## Out of Class
+### Out of Class
 
 - 3 major writing assignments
 - 1 oral presentation on a current event, to be delivered in class, with a partner
