@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides instructions for the third essay assignment of
+  the course.
 draft: false
 parent_uid: b7af93a7-cfda-9224-0541-d3559584db59
 title: Essay 3
