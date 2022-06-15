@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides citations and links to readings, videos, historical
+  parks, museums, and other sites related to the women's movement, and additional
+  resources.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources

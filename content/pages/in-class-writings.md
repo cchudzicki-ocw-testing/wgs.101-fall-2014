@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides the in-class writing assignments for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: In-Class Writings
