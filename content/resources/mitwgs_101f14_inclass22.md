@@ -5,6 +5,7 @@ description: This resource contains information related to affirmative action an
 file: /courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2014/fff9d0dda2c70416664e2dbe57710ee8_MITWGS_101F14_InClass22.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: In-Class Writings
 parent_type: CourseSection

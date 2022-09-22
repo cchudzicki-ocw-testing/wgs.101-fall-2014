@@ -5,6 +5,7 @@ description: This resource contains information related to reasons for American 
 file: /courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2014/0a139e8b67634f99ceee68cb95c5ce5b_MITWGS_101F14_InClass13.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: In-Class Writings
 parent_type: CourseSection

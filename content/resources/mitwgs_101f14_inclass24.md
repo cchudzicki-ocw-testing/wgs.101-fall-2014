@@ -5,6 +5,7 @@ description: This resource contains information related to Nicholas D. Kristof's
 file: /courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2014/91beb7d704173d0d6ea65cfe18b1a122_MITWGS_101F14_InClass24.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: In-Class Writings
 parent_type: CourseSection
